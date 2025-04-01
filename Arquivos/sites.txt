@@ -1,0 +1,8 @@
+https://networkx.org/documentation/stable/auto_examples/drawing/plot_weighted_graph.html
+https://www.w3schools.com/dsa/dsa_algo_graphs_dijkstra.php
+https://www.udacity.com/blog/2021/10/implementing-dijkstras-algorithm-in-python.html
+https://cs.stackexchange.com/questions/78154/maximum-weighted-paths-in-a-dag
+https://math.stackexchange.com/questions/2524032/algorithm-to-find-largest-weight-path-of-a-graph-where-weight-is-given-by-multip
+https://www.datacamp.com/tutorial/dijkstra-algorithm-in-python
+https://stackoverflow.com/questions/38355370/graph-minimum-weight-path
+https://scikit-learn.org/0.24/modules/generated/sklearn.utils.graph_shortest_path.graph_shortest_path.html
